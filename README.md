@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sojujuu
-- 👀 I’m interested in Learning React JS,Javascript,Typescript,etc
-- 🌱 I’m currently learning Java,Oracle Linux,HTML/CSS,PHP, etc
-- 💞️ I’m looking to collaborate on making Java Projects and other projects involving React JS
-- 📫 How to reach me by dm me on Instagram @xyzlols
+- 👀 I’m interested in Learning React JS, Javascript, Katalon, etc
+- 🌱 I’m currently learning Python, SQL, ETL, ERP, Java, Oracle Linux, HTML/CSS, PHP, etc
+- 📫 How to reach me by dm me on LinkedIn https://www.linkedin.com/in/julius-siddharta/
 
 <!---
 sojujuu/sojujuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
